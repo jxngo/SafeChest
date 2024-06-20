@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeChest", "SafeChest\SafeChest.csproj", "{0361ADF3-22E2-4E20-8FC8-EA4ADD62949C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0361ADF3-22E2-4E20-8FC8-EA4ADD62949C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0361ADF3-22E2-4E20-8FC8-EA4ADD62949C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0361ADF3-22E2-4E20-8FC8-EA4ADD62949C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0361ADF3-22E2-4E20-8FC8-EA4ADD62949C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1A3F22-2DEC-4488-B455-712D68FBA218}
+	EndGlobalSection
+EndGlobal
